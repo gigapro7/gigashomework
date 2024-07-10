@@ -1,0 +1,1 @@
+print(name + "giga" + sanrame + "zurashvili" + age + "16" + height + "170" + weight + "60" 
